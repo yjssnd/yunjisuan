@@ -1,0 +1,11 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有 .txt 文件
+*.txt
+
+# 忽略某个特定的文件夹
+temp/
+
+# 忽略特定的文件
+specific_file.txt
